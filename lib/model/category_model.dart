@@ -17,3 +17,66 @@ class NewsModel {
       this.author,
       this.content});
 }
+
+// List<NewsModel> images = [
+//   NewsModel(
+//     urlToImage:
+//         "https://scx2.b-cdn.net/gfx/news/hires/2024/humanoid-robot.jpg",
+//   ),
+//   NewsModel(
+//     urlToImage:
+//         "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+//   ),
+//   NewsModel(
+//     urlToImage:
+//         "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+//   ),
+//   NewsModel(
+//     urlToImage:
+//         "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+//   ),
+//   NewsModel(
+//     urlToImage:
+//         "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+//   ),
+//   NewsModel(
+//     urlToImage:
+//         "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+//   ),
+//   NewsModel(
+//     urlToImage:
+//         "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+//   ),
+//   NewsModel(
+//     urlToImage:
+//         "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+//   ),
+//   NewsModel(
+//     urlToImage:
+//         "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+//   ),
+//   NewsModel(
+//     urlToImage:
+//         "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+//   ),
+//   NewsModel(
+//     urlToImage:
+//         "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+//   ),
+//   NewsModel(
+//     urlToImage:
+//         "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+//   ),
+//   NewsModel(
+//     urlToImage:
+//         "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+//   ),
+//   NewsModel(
+//     urlToImage:
+//         "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+//   ),
+//   NewsModel(
+//     urlToImage:
+//         "https://techcrunch.com/wp-content/uploads/2024/05/Minecraft-keyart.jpg?resize=1200,720",
+//   ),
+// ];
